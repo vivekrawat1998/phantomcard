@@ -139,7 +139,6 @@ const InputForm = () => {
           Submit Form
         </button>
       </form>
-
       <div className="mt-4">
         <h3 className="text-xl text-center text-black font-bold mb-2">
          Upload the Payment Screenshot!
